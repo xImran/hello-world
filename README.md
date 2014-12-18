@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-just another respositry
+My name is Imran Saeed and I go by the alias "xImran" 'x' for being from Gen X.
 
-Trying to figure out how to use gihub and seems easy to understand and use.
+I have my blog at http://ximran.com
